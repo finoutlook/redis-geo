@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/src/RedisGeo/bin/Debug/netcoreapp1.1/RedisGeo.dll",
+            "program": "${workspaceFolder}/src/RedisGeo/bin/Debug/netcoreapp2.0/RedisGeo.dll",
             "args": [],
             "cwd": "${workspaceFolder}/src/RedisGeo",
             "stopAtEntry": false,
